@@ -1,6 +1,6 @@
 /* Code By Webdevtrick ( https://webdevtrick.com ) */
 html, body {
-    background-color: white;
+    background-color: black;
     color:white;
     font-family: 'Staatliches', cursive;
     letter-spacing: 3px;
@@ -10,7 +10,7 @@ html, body {
     overflow-x: hidden; 
 }
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
-  background-color: #ed5565;
+    background-color: #3600b6;
 }
 h1 {
   padding-top: 10px;
@@ -28,10 +28,10 @@ a {
   color: white;
 }
 a:hover {
-  color: #ff2a4a;
+  color: #3600b6;
 }
 .banner {
-  background:url("/Users/k/Documents/GitHub/KlimentLiubchenko.github.io/website/images/web-g1c2368440_1280.jpg");
+    
   background-size: cover;
   height: 1000px;
 }
@@ -40,25 +40,27 @@ a:hover {
   height: 1000px;
 }
 .skills {
-  background:url("https://m.foolcdn.com/media/dubs/images/Intro_slide_-_digital_stock_chart_going_up_-_s.width-880.jpg");
+    background-color: black;;
   background-size: cover;
   min-height: 100%;
   padding-bottom: 40px;
   padding-top:40px;
 }
 .ex-timeline {
-  background-color:#212121;
+    background-color: black;;
   background-size: cover;
   min-height: 100%;
   padding-top: 20px;
   padding-bottom: 60px;
 }
 .portfolios {
+    
   padding-top: 5px;
   margin-top: -20px;
-  background: #212121;
+  background-color: black;;
 }
 .title {
+    
   padding-bottom: 10px;
   width: 1100px;
   margin-right: auto;
@@ -67,6 +69,7 @@ a:hover {
   top: 250px;
 }
 .titles {
+  
   width: 790px;
   border-color: white;
   border-width: 5px;
@@ -124,7 +127,7 @@ a:hover {
 .border {
   border-style: solid;
   border-width: 3px;
-  border-color: #ff2a4a; 
+  border-color: #3600b6; 
 }
 .resume {
   top: 280px;
@@ -147,10 +150,10 @@ a:hover {
 }
 #qualif {
   font-size: 3em;
-  color:#ff2a4a;
+  color:white;
 }
 footer {
-  background-color: #ff2a4a;
+  background-color: #3600b6;
   color: white;
   line-height: 20px;
   padding-top: 10px;
@@ -189,9 +192,9 @@ footer {
   background-color: #1da1f2;
 }
 .timeline-event:hover .timeline-thumbnail {
-  -moz-box-shadow: inset 40em 0 0 0 #ed5565;
-  -webkit-box-shadow: inset 40em 0 0 0 #ed5565;
-  box-shadow: inset 40em 0 0 0 #ed5565;
+  -moz-box-shadow: inset 40em 0 0 0 #1da1f2;
+  -webkit-box-shadow: inset 40em 0 0 0 #1da1f2;
+  box-shadow: inset 40em 0 0 0 #1da1f2;
 }
 .timeline-event #workplace{
   transition: all .3s;
@@ -226,7 +229,7 @@ footer {
   -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
   background-color: white;
-  outline: 10px solid #ed5565;
+  outline: 10px solid #1da1f2;
   display: block;
   margin: 8px 8px 8px -8px;
   position: absolute;
@@ -243,7 +246,7 @@ footer {
   -moz-box-shadow: inset 0 0 0 0em #1da1f2;
   -webkit-box-shadow: inset 0 0 0 0em #1da1f2;
   box-shadow: inset 0 0 0 0em #1da1f2;
-  background: none repeat scroll 0 0 #ed5565;
+  background: none repeat scroll 0 0 #3600b6;
   box-shadow: 0 0 0 0 #1da1f2 inset;
   color: #fff;
   display: inline-block;
@@ -281,9 +284,9 @@ footer {
   color: #002b80;
 }
 .contact-section {
-  background-color: #333;
+  background-color: #3600b6;
   background-size: cover;
-  height: 350px;
+  padding-bottom: 20px;
   padding-top: 20px;
 } 
 .contact-buttons {
