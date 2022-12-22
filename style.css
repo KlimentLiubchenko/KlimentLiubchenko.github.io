@@ -54,7 +54,7 @@ a:hover {
   padding-bottom: 60px;
 }
 .portfolios {
-    
+   
   padding-top: 5px;
   margin-top: -20px;
   background-color: black;;
@@ -69,7 +69,7 @@ a:hover {
   top: 250px;
 }
 .titles {
-  
+ 
   width: 790px;
   border-color: white;
   border-width: 5px;
@@ -88,10 +88,12 @@ a:hover {
   padding-bottom:30px;
 }
 .project-img {
+  
   height: 500px;
   width: 450px;
 }
 #projectTitle {
+ 
   text-align: center; 
   font-size: 2.8em;
   cursor: pointer;
